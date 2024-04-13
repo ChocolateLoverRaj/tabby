@@ -38,3 +38,5 @@ tabby-ssh/util/pagent.exe
 
 crowdin.yml
 .crowdin.env
+
+.direnv
